@@ -1,6 +1,7 @@
 # Inioluwa Olufemi — Portfolio
 A responsive personal portfolio made with plain HTML, CSS, and JavaScript.
 
+
 ## Files
 
 - `index.html` — content and semantic structure
